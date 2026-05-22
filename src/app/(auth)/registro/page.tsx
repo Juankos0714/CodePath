@@ -145,15 +145,8 @@ export default function RegistroPage() {
         </form>
 
         <p className="text-center text-xs text-[var(--color-muted-foreground)]">
-          Al registrarte aceptas nuestros{" "}
-          <Link href="/terminos" className="underline">
-            Términos de Uso
-          </Link>{" "}
-          y{" "}
-          <Link href="/privacidad" className="underline">
-            Privacidad
-          </Link>
-          .
+          Al registrarte aceptas nuestros Términos de Uso y Política de
+          Privacidad.
         </p>
       </div>
     </div>
