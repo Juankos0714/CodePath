@@ -1,10 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  experimental: {
-    typedRoutes: true,
-  },
-  images: {
+images: {
     remotePatterns: [
       {
         protocol: "https",
