@@ -111,7 +111,7 @@ Abre [http://localhost:3000](http://localhost:3000).
 | Variable | Descripción | Dónde obtenerla |
 |----------|-------------|----------------|
 | `NEXT_PUBLIC_SUPABASE_URL` | URL de tu proyecto Supabase | Supabase Dashboard → Settings → API |
-| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Clave anon pública | Supabase Dashboard → Settings → API |
+| `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` | Clave publishable pública | Supabase Dashboard → Settings → API |
 | `SUPABASE_SERVICE_ROLE_KEY` | Clave de servicio (solo servidor) | Supabase Dashboard → Settings → API |
 | `NEXT_PUBLIC_POSTHOG_KEY` | API key de PostHog | PostHog → Project Settings |
 | `NEXT_PUBLIC_POSTHOG_HOST` | Host de PostHog | `https://app.posthog.com` |
